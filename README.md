@@ -4,6 +4,6 @@ Repository Mata Kuliah Pemrograman_GUI. Rizki Delaga Prasetya (19104074) - S1 SE
 
 # Tugas Qt Designer
 
-Nama  : Rizki Delaga Prasetya
-NIM   : 19104074
+|Nama  | Rizki Delaga Prasetya|
+|NIM   | 19104074|
 
