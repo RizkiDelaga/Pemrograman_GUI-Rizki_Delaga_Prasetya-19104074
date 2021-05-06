@@ -1,3 +1,4 @@
+import sys
 from DesignGui import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtWidgets import *
