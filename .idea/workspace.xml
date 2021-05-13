@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0d3566a-cbac-4937-87f4-541b0544d4f8" name="Default Changelist" comment="Menambahkan file python ke Branch Praktikum_4" />
+    <list default="true" id="f0d3566a-cbac-4937-87f4-541b0544d4f8" name="Default Changelist" comment="menambahkan File workspace.xml ke Main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,28 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/Semester 4/Tugas/Prak GUI" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Python.Tugas_Kisi2">
+  <component name="RunManager" selected="Python.Abstract">
+    <configuration name="Abstract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pemrograman_GUI-Rizki_Delaga_Prasetya-19104074" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Praktikum Pemrograman GUI/Praktikum_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Praktikum Pemrograman GUI/Praktikum_3/Abstract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Aritmatika" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pemrograman_GUI-Rizki_Delaga_Prasetya-19104074" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,27 +73,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Praktikum Pemrograman GUI/Praktikum_3/Aritmatika.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DesignDial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pemrograman_GUI-Rizki_Delaga_Prasetya-19104074" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Praktikum Pemrograman GUI/Praktikum_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Praktikum Pemrograman GUI/Praktikum_4/DesignDial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Abstract" />
         <item itemvalue="Python.Tugas_Kisi2" />
         <item itemvalue="Python.Aritmatika" />
         <item itemvalue="Python.DesignLayoutGUI" />
         <item itemvalue="Python.DesignGui" />
-        <item itemvalue="Python.DesignDial" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620308720062</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="menambahkan File workspace.xml ke Main">
+      <created>1620312318081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620312318081</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +210,8 @@
     <MESSAGE value="Menambahkan file python ke Branch Praktikum_2" />
     <MESSAGE value="Menambahkan file python ke Branch Praktikum_3" />
     <MESSAGE value="Menambahkan file python ke Branch Praktikum_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan file python ke Branch Praktikum_4" />
+    <MESSAGE value="menambahkan File workspace.xml ke Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="menambahkan File workspace.xml ke Main" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
