@@ -47,3 +47,8 @@ layout dan Komponen yang digunakan yaitu :
 
 
 ## No 2
+kode tersebut error karena terdapat indentasi yang salah pada kode tersebut. 
+
+![6](https://user-images.githubusercontent.com/72425333/120766619-9d27a080-c544-11eb-927e-0ec8b5e57ea7.png)
+
+![7](https://user-images.githubusercontent.com/72425333/120766658-a7e23580-c544-11eb-8aac-b288a1eb1d6e.png)
